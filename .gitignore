@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
